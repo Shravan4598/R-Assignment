@@ -1,0 +1,1 @@
+df_missing <- read.csv("data.csv", na.strings = c("", "NA", "NULL"))
