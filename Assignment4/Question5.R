@@ -1,0 +1,1 @@
+named_list <- list(number = 42, text = "Hello", flag = TRUE)

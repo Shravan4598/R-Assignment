@@ -1,0 +1,1 @@
+df2 <- data.frame(A = 1:4, B = c("X", "Y"))  # B will recycle

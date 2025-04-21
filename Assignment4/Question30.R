@@ -1,0 +1,1 @@
+subset(df, Age > 25 & Gender == "M")

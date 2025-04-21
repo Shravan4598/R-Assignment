@@ -1,0 +1,1 @@
+subset(df, Name == "Bob")
